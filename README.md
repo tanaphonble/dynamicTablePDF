@@ -15,7 +15,7 @@ data = [
         .
         .
         .
-    [vcolm0, rowm0, rowm1, ... , rowmn]    
+    [vcolm0, rowm0, rowm1, ... , row(m-1)(n-1)]    
 ]
 ```
 
