@@ -1,0 +1,16 @@
+{
+  "name": "dynamicTablePDF",
+  "version": "1.0.0",
+  "description": "Generating dynamic table from arrays to pdf in client side.",
+  "keywords": [
+    "pdf","table"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tanaphonble/dynamicTablePDF.git"
+  },
+  "dependencies": {
+    "jspdf": "1.3.5"
+  }
+}
