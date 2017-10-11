@@ -9,13 +9,13 @@ Generating dynamic table from arrays to pdf in client side.
 ```javascript
 data = [
     [vhcol00 , hcol01, hcol02, ... , hcol0n ],
-    [vcol10, row00, row01, ... , row02],
-    [vcol20, row10, row11, ... , row12],
-    [vcol30, row20, row21, ... , row22],
+    [vcol10, row00, row01, ... , row0(n-1)],
+    [vcol20, row10, row11, ... , row1(n-1)],
+    [vcol30, row20, row21, ... , row2(n-1)],
         .
         .
         .
-    [vcolm0, rowm0, rowm1, ... , row(m-1)(n-1)]    
+    [vcolm0, row(m-1)0, row(m-1)1, ... , row(m-1)(n-1)]    
 ]
 ```
 
